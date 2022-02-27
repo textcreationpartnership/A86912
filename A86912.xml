@@ -1,0 +1,216 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Truth cleared from reproaches and scandals, laid upon it by those, who goes by the name of judges, and who went the northern circuit. Also some examinations of those whom the world calls Quakers.</title>
+            <author>Hunter, Cuthbert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86912</idno>
+            <idno type="STC">Wing H3765</idno>
+            <idno type="STC">Thomason E821_7</idno>
+            <idno type="STC">ESTC R207367</idno>
+            <idno type="EEBO-CITATION">99866424</idno>
+            <idno type="PROQUEST">99866424</idno>
+            <idno type="VID">118697</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118697)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 125:E821[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Truth cleared from reproaches and scandals, laid upon it by those, who goes by the name of judges, and who went the northern circuit. Also some examinations of those whom the world calls Quakers.</title>
+                  <author>Hunter, Cuthbert.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Year of our Lord, 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"These may certifie all Friends, concerning the accusation of the Judges of me Cuthbert Hunter of adultery and fornication, in the Towne of the Court of Newcastle" (p. 1).</note>
+                  <note>Annotation on Thomason copy: "Decemb: 26".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Controversial literature --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118697:1" rendition="simple:additions"/>
+            <p>TRUTH CLEARED FROM REPROACHES, AND SCANDALS, Laid upon it by thoſe, who goes by the name of Judges, and who went the Northern CIRCUIT.</p>
+            <q>
+               <bibl>
+                  <hi>Math. 5.11.</hi>
+               </bibl>
+               <p>Bleſſed are yee when men ſhall revile you and perſecute you, and ſhall ſay all manner of evill againſt you falſly for my ſake.</p>
+               <bibl>
+                  <hi>Heb. 11.26.</hi>
+               </bibl>
+               <p>Eſteeming the reproach of Chriſt greater riches then the treaſure of <hi>Aegypt.</hi>
+               </p>
+               <bibl>
+                  <hi>Micah 3.10, 11.</hi>
+               </bibl>
+               <p>They build up <hi>Sion</hi> with bloud, and <hi>Jeruſalem</hi> with iniquity; the Heads thereof judge for rewards, and the Prieſts thereof teach for hire, and the Prophets thereof divine for mony, yet will they leane upon the Lord, and ſay, is not the Lord among us? no evill can come upon us.</p>
+            </q>
+            <p>Alſo ſome Examinations of thoſe whom the World calls QUAKERS.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year of our Lord, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:118697:2"/>
+            <pb n="1" facs="tcp:118697:2"/>
+            <head>The fourteenth day of <hi>Auguſt</hi> at the generall Aſsiſes hol<g ref="char:EOLhyphen"/>den at <hi>Lancaſter.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>Udge <hi>Nudigate</hi> ſaid openly in his charge at <hi>Lancaſter</hi> in the face of the whole County, giving reproachfull language upon thoſe people whom the world calls <hi>Quakers,</hi> and many ſcandals and falſe aſpertions he caſt upon them in his charge: and he ſpoke there publickly, and ſaid, that the Principles that they held, which is the light within, would lead into all manner of ſin: and he ſaid further, that there was a man before them at <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> which had committed adultery with a woman, and when they asked him why he did ſo, he ſaid, he was moved of the Lord, this he affirmed in his charge at <hi>Lancaſter,</hi> the truth of which will appear as followeth.</p>
+            <div type="part">
+               <head>
+                  <hi>Newcaſtle</hi> ſeventeenth day of the month called <hi>Septem<g ref="char:EOLhyphen"/>ber.</hi>
+               </head>
+               <p>THeſe may certifie all Friends, concerning the accuſa<g ref="char:EOLhyphen"/>tion of the Judge of me <hi>Cuthbert Hunter</hi> of adultery and fornication, in the Towne and Court of <hi>Newcaſtle</hi> the ſecond day of the ſixt month called <hi>Auguſt,</hi> which is here briefly, and ſimply, and plainly, as followeth: An Information being red, wherein I was accuſed of fornica<g ref="char:EOLhyphen"/>tion, and adultery, and divers other things, as that I
+<pb n="2" facs="tcp:118697:3"/>
+was not married, and I anſwered and ſaid, that in for<g ref="char:EOLhyphen"/>nication I deny, for it is falſe, for I am married: He asked me where I was married? I ſaid, I took my wife ſeven miles from this place; he asked me if I was marri<g ref="char:EOLhyphen"/>ed with a Juſtice? and I ſaid no; he ſaid I had broke the Law, for there was an Act that all that was to be married was to be married with a Juſtice: I asked him, why the Prieſts did marry? then he asked me when I was marri<g ref="char:EOLhyphen"/>ed? I ſaid I was married in the year 1653. the third month of that year, called <hi>May:</hi> he asked me if I were marri<g ref="char:EOLhyphen"/>ed? with a Miniſter? and I ſaid, no I was not; and he ſaid, I had broke the Lawes of man and the Law of God, for which I was to be puniſhed: then I deſired him to prove before that people wherein, and he ſaid, take him away and let him either find ſureties or goe to priſon; and I ſaid, I would find none, for I ſaid, I know no Law I had bro<g ref="char:EOLhyphen"/>ken, but that which is contrary to the Law of God: and then his Officers called of the Jayler to take him away and theſe are the words which were ſpoken at that time.</p>
+               <p>As for that when he asked me, why I did ſo, I ſaid, I was moved of the Lord, is falſe, and was never thought non ſpoken by me.</p>
+               <p>Dear friends, this is to certifie of the manner of my marriage, and when I was married, and how I took to me a wife, according to the example I found in the Scripture, that holy men of God did take to themſelves wives, but I could not find where ever any of the Mini<g ref="char:EOLhyphen"/>ſters of God took mony for marrying of any, as theſe Miniſters did then, therefore according to that example I found among the Saints, we did bequeath to each other before witneſſe, in the preſence of the Lord, before whom we ſhall give an account, the Father of the wo<g ref="char:EOLhyphen"/>man being there, ſo I became to her a husband, and ſhe to me a wife, and ſo I own her before all people; this was in the year 1653. in the third month of that year, called <hi>May,</hi> it was about half a year before I owned the
+<pb n="3" facs="tcp:118697:3"/>
+Truth, as a teſtimony of which I ſubſcribe my name <hi>Cuth<g ref="char:EOLhyphen"/>bert Hunter.</hi>
+               </p>
+               <p>We whoſe names are here ſubſcribed are ſatisfied that this is a true teſtimony, <hi>George Arey, Tho. Arey, Ag<g ref="char:EOLhyphen"/>nus Ewbanck, Mary Arey, Tho. Turner, Richard Ew<g ref="char:EOLhyphen"/>banck, Lamclet Warde<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll.</hi>
+               </p>
+               <p>Whereas Judge <hi>Nudigate</hi> did ſay in his charge at <hi>Lan<g ref="char:EOLhyphen"/>caſter,</hi> that <hi>the light, the principle which we hold in every one, doth lead unto all manner of ſin.</hi>
+               </p>
+               <p>The light which comes from Chriſt Jeſus, which he doth enlighten every one that comes into the world withall, is the condemnation of all ſin, wickedneſſe, un<g ref="char:EOLhyphen"/>cleanneſſe and ungodlineſſe, and the light, which is our principle, as he calls it, in every man, will witneſſe a<g ref="char:EOLhyphen"/>gainſt the ſaid <hi>Nudigate,</hi> who is called a Judge, and doth witneſſe againſt ſinne, and the ſame Light will witneſſe Chriſt, and make every tongue to confeſſe, and is the condemnation of all that hate it, whoſe deeds be evill. Oh that ever ſuch ſhould be ſet up to be a Judge, who utters forth ſuch blaſphemy, that to ſay (the light which he doth enlighten every man that comes into the world withall, <hi>John</hi> 1.9. to it in every man, which we ſpeak of, which is the light of Chriſt, which is the condemnation of all ſin and unrighteouſneſſe of all them that hate it) it ſhould lead to commit all manner of ſin, as Judge <hi>Nu<g ref="char:EOLhyphen"/>digate</hi> ſaid in his charge: Here thou art manifeſt to be no Judge for God, but judged with the juſt. And the light in every mans conſcience, which comes from Chriſt, will and doth witneſſe againſt thee, that thy judgement is falſe, and ſpeakes a lie, who is out of the truth, and ſpeaks of thy ſelf, and the light in thy own conſcience, which comes from Chriſt, witneſſes againſt thee: For to the light in every ones conſcience, Judge <hi>Nudigate,</hi> with it ſhalt thou be proved, whether it leads into all manner of ſin, or whether it teſtifies againſt all manner of ſin, let it in all conſciences, the judge, whether thou be a Judge for God yea or nay; that in thy conſcience ſhall be a
+<pb n="4" facs="tcp:118697:4"/>
+witneſſe againſt thee, and witneſſe me, and be a wit<g ref="char:EOLhyphen"/>neſſe for God againſt thee. That which ſhews thee un<g ref="char:EOLhyphen"/>godlineſſe and ſin, and manifeſts it, is light, and the light doth not lead into the ſin, but leads out of the ſin, and teſtifies againſt it: And this am I moved to give forth, who am a witneſſe to the light in all tender conſciences, which is a witneſſe againſt all ſin, whoſe minds are turned with the light towards Chriſt. And thou who ſhould be a Judge upon the evill, art found to be a Judge upon the good (the light) let the light in all con<g ref="char:EOLhyphen"/>ſciences bear witneſſe againſt thee, which witneſſes a<g ref="char:EOLhyphen"/>gainſt evil, and leads not into it, who here hath manifeſt<g ref="char:EOLhyphen"/>ed thy ſelf, that thou art darkneſſe, and doth not compre<g ref="char:EOLhyphen"/>hend light, but at it ſtumbles; and the Scripture is fulfil<g ref="char:EOLhyphen"/>led upon thee, the ſaying of <hi>John, Light ſhines in darkneſſe, and darkneſſe doth not comprehend it: And if you walk in the light you have fellowſhip one with another: and the bloud of Jeſus cleanſeth from all ſin:</hi> and here again thou may ſee how contrary to the Scripture thou art, for in the light which leads out of ſin is the unity, for the Law of God takes hold upon them who act contrary to the light the light witneſſes the law, and the law witneſſeth the light, and the law is a Judge upon them who walk contrary to the light, and it is not a Judge upon them who walk in the light; here let the light in all conſciences be a wit<g ref="char:EOLhyphen"/>neſſe againſt thee, the which light witneſſes againſt all ſin, and finds thee in the ſin and the blaſphemy, who ſaith, the light leads into all ſin, which light is thy condemnation, the light of him that doth evill and hates the light, as you may read <hi>John</hi> 3. And for the falſe accuſation of the ſaid Judge <hi>Nudigate,</hi> which did accuſe <hi>Cuthbert Hunter</hi> for adultery and fornication, becauſe he took a wife be<g ref="char:EOLhyphen"/>fore witneſſe, and was not married with the Prieſts of the world, which marry people for mony, and for giving of them a form of words for mony, but took a wife accor<g ref="char:EOLhyphen"/>ding to the manner he found in the Scripture (witneſſes) the holy men of God, and did not goe to the Prieſts to
+<pb n="5" facs="tcp:118697:4"/>
+give them mony, but took before witneſſe, and denied the Prieſts for giving them mony for marrying, for there is no ſuch example in the Scripture, that the Prieſts were to have ſo much for marrying people. And this Judge <hi>Windham</hi> ſaith, it is contrary to the Law of God, and contrary to the Law of man, which all may ſee it is a falſe accuſation, for the Law of God witneſſes the ſame, that which Judge <hi>Nudigate</hi> calls adultery; ſo <hi>whom the Lord joyneth together let no man put aſunder, the marriage that is honourable, the bed that is not defiled,</hi> all the children of the light doth it witneſſe, and honour it, but all mar<g ref="char:EOLhyphen"/>riages that are contrary to the light, God does not joyn together; that marriage is not honourable, that bed is defiled, all that is joyned there in that nature contrary to the light, together with that which is contrary to the light, all this is with the light to be condemned, and not honou<g ref="char:EOLhyphen"/>rable, for there the bed is defiled, all Covetouſneſſes, and the Whoremongers, and the Adulterers, ſuch marriages, contrary to the light, God doth not joyn together, but is with the light ſeen and condemned; the bed that is defiled is not honourable, and there is hardneſſe of heart, and putting aſunder, but whom <hi>God joynes together let no man put aſunder,</hi> and ſuch whom God doth joyn to<g ref="char:EOLhyphen"/>gether with his Light, for God is Light, and the children of light, which be in his Light, doth witneſſe his joyning, as the Scripture declares; and ſuch doth the world call Adul<g ref="char:EOLhyphen"/>tery: As for example, Judge <hi>Nudigate,</hi> becauſe they are not married with a Prieſt, or joyned together with a car<g ref="char:EOLhyphen"/>nall Law, but takes one another before witneſſes, as the manner of the holy men of God was.</p>
+               <p>And though the ſaid <hi>Cuthbert Hunter</hi> did take his wife after the example of the Saints in Scripture, he was not then brought into the truth, for it was half a year before he owned the truth; and as for ſaying to the Judge, that the Lord moved him, that was another falſe accuſation.</p>
+               <p>And all the children of light, which ſees God and are of God, doth the marriage ſee that be honourable, and doth
+<pb n="6" facs="tcp:118697:5"/>
+them ſee whom God joynes together, let no man put aſunder, and the marriage that is not honourable is with the Light ſeen and judged, and all the Whoremongers and Adulterers, which is contrary to the Light comprehended and condemned, in which light all the children of light dwell, and have unity, praiſes, praiſes to the Lord God for ever. And the ſaid Judge that ſtumbles at the light, and ſaid it led into all ſin, knowes not the marriage that is honourable, whoſe condemnation is with the light, the light in thy conſcience is my witneſſe; and all who are not joyned together with God are not moved of the Lord, and a condemnation muſt goe upon all the marria<g ref="char:EOLhyphen"/>ges that are not moved of the Lord, and joyned together by the Lord, for they are not honourable, and them that men or women joyn together, contrary to the light, are with the light condemned, and ſundred from the honou<g ref="char:EOLhyphen"/>rable mariage in the defiled bed.</p>
+            </div>
+            <div type="part">
+               <head>The examination of them the world calls <hi>Quakers</hi> at <hi>Lan<g ref="char:EOLhyphen"/>caſter.</hi>
+               </head>
+               <p>VVE are moved to declare the Triyall betwixt us, the priſoners of the Lord, and <hi>Tho. Shaw</hi> Prieſt of <hi>Aldingam,</hi> who by his three Conſtables did appre<g ref="char:EOLhyphen"/>hend our bodies, and bring us to <hi>Lancaſter,</hi> to anſwer ſuch accuſations as Prieſt <hi>Shaw</hi> could lay to our charge. We were brought into the Court by the Prieſt and his Conſtables, before the Judge there ſitting: We coming ſingle before him, cying the Lord alone, and not man, with our hats on, they took them off our heads, ſtanding before him a little ſpace; the Warrants againſt us was read before the Judge: The Judge asked Prieſt <hi>Shaw</hi> what witneſſe he had; <hi>Shaw</hi> anſwered <hi>James Chambers.</hi> We anſwered to our names as we were called, and to com<g ref="char:EOLhyphen"/>mitted into the Jaylors hand too among theeves behind the barre, and ſaid little, but that <hi>Thomas Hatton</hi> told the Judge, he was moved of the Lord to ſpeak againſt
+<pb n="7" facs="tcp:118697:5"/>
+the deceit in him; whereupon the Judge told Prieſt <hi>Shaw</hi> he might goe and get his Inditements drawn againſt us: whereupon the Prieſt went forth of the Court to get them done againſt the afternoon, and in the afternoon we were brought before the Judge again, and the Indite<g ref="char:EOLhyphen"/>ments which the Prieſt had drawn againſt us was read; then the Judge asked the Prieſt if he had no more witneſſes, the Prieſt ſaid, none but my ſelf and <hi>James Chambers,</hi> whereupon they were both ſworn, that we came maliti<g ref="char:EOLhyphen"/>ouſly to diſturbe him.</p>
+               <p>And the Judge asked the Prieſt, what <hi>Waters Mires</hi> ſpoke to him when he was preaching, the Prieſt anſwered the Judge, that he ſaid come down thou lyar: The Judge asked the Prieſts man what he heard him ſpeak, he anſwer<g ref="char:EOLhyphen"/>ed and ſaid, that <hi>Waters Mires</hi> ſaid come down thou foul beaſt, and they ſwore both, the Prieſt and his man, that <hi>Waters Mires</hi> ſpoke theſe words the laſt <hi>New-yeares</hi> day: whereupon the Judge asked <hi>Waters Mires</hi> what he ſaid, to this that the Prieſt and the man laid to his charge, <hi>Waters Mires</hi> anſwered, that he was not at <hi>Tho. Shaw</hi> the laſt <hi>New-yeares</hi> day: the Iudge ſaid, was you not there, did you not diſturb him? <hi>Waters Mires</hi> ſaid, I was there, but it was a year and a half ſince: The Iudge ſaid unto the Prieſt, he confeſſeth he was there, but it is a year and a half ſince; whereupon Prieſt <hi>Shaw</hi> anſwered, he had other things in his mind, he could not certainly tell the words: the Iudge asked <hi>Waters Mires,</hi> if he called him lyar and foul beaſt, <hi>Waters Mires</hi> anſwered, that he called him beaſt, but not foul beaſt, ſo that that was a lie: The Iudge asked him, how he could make it appear that he taught lyes? <hi>Waters Mires</hi> anſwered, in acting thoſe things that Chriſt forbids, in taking the chiefeſt place in the Aſſemblies, being called of men Maſter, and is a hireling, which Chriſt cried woe againſt, and in taking Tithe: The Judge ask<g ref="char:EOLhyphen"/>ed if he had any more to ſay, or any for him?</p>
+               <p>
+                  <hi>Thomas Hutton</hi> anſwered, he was a covetous hireling, and took Tithe of thoſe that had their children going a beg<g ref="char:EOLhyphen"/>ging,
+<pb n="8" facs="tcp:118697:6"/>
+which Chriſt gave no ſuch commiſſion to thoſe he ſent forth, but ſent them forth without bag, or ſcrip, or two coates, or a ſtick to defend them, but freely they had received freely give, this is the commiſſion, firſt and laſt, that Jeſus Chriſt gives to thoſe he ſends forth, if any know of another let them ſpeak, but all was ſilent; but the Judge ſaid, <hi>them which ſerve at the Altar ſhould live by the Altar; Thomas Hutton</hi> anſwered no other rule but what the Apoſtle ſaith, <hi>If any man plant a Vineyard he may eat of the fruit thereof,</hi> and all was ſilent.</p>
+               <p>
+                  <hi>Thomas Hutton</hi> was called, to anſwer to the bill of In<g ref="char:EOLhyphen"/>ditement laid againſt him by <hi>Thomas Shaw:</hi> the Judge asked <hi>Shaw</hi> what witneſſes he had, he ſaid, <hi>James Cham<g ref="char:EOLhyphen"/>bers</hi> and my ſelf; and they ſwore, that <hi>Thomas Hutton</hi> came while he was preaching, and ſaid, he was a dtun<g ref="char:EOLhyphen"/>kard, and a liar: whereupon the Judge asked if he made a diſturbance in the Congregation; the Prieſts man ſaid yes, many of the people went out with him, and had more mind to hear him then to ſtay in the Church: Where<g ref="char:EOLhyphen"/>upon the Judge asked <hi>Thomas Hutton</hi> how he could an<g ref="char:EOLhyphen"/>ſwer theſe things; the Prieſt ſaid, my Lord, my neigh<g ref="char:EOLhyphen"/>bours knowes I am no drunkard nor lyar: <hi>Thomas Hutton</hi> anſwered, I was moved of the Lord to cry againſt him for deceiving the people, and in teaching lies, which was as a fire in my boſome untill I had delivered it, he made them believe this lie, that the Steeple-houſe was holier than another place, by his old form of prayer, in ſaying, <hi>how dreadfull is this place,</hi> as if the Temple were up again, which was a figure of Chriſt in his Saints; and further, <hi>that we may ſpend this ſacred day in this ſacred place,</hi> and ſo deceives the ſimple, in making them believe, that a houſe of wood and ſtone is the Temple or the Houſe of God, which is a horrible lie and deceit: the Judge ſaid, did not Chriſt preach in the Temple, and whip out them that bought and ſold; <hi>Thomas Hutton</hi> ſaid, the Temple was a figure of Chriſt in his Saints, which they witneſſe him to whip out all ſin; ſo <hi>Steven</hi> went into the Tem<g ref="char:EOLhyphen"/>ple,
+<pb n="9" facs="tcp:118697:6"/>
+and witneſſed forth the Subſtance, and told them, that <hi>God that made the world and all things therein, dwelt not in Temples made with hands:</hi> And the Apoſtle ſaith, <hi>yee are the Temples of the living God, as God hath ſaid, I will dwell in you, and walk in you:</hi> And Chriſt told the wo<g ref="char:EOLhyphen"/>man, that <hi>neither in this place, nor at</hi> Ieruſalem, <hi>but they that worſhip the Father muſt worſhip in ſpirit and in truth;</hi> And <hi>Thomas Shaw</hi> was telling the people, that none could be perfect here, and yet his Text was, <hi>ſtrive to make your calling and election ſure,</hi> whereupon <hi>Thomas Hutton</hi> told him before the people, that election was perfect, and whoſoever witneſſeth election witneſſeth perfection, yea, ſin and tranſgreſſion finiſhed: The Judge ſaid, I wiſh we were perfect: <hi>Thomas Hutton</hi> anſwered, <hi>he that is born of God ſinneth not,</hi> but doth witneſſe the birth to be perfect, the Temple holy and the Kingdome pure; and further, <hi>Thomas Hutton</hi> told <hi>Thomas Shaw</hi> that he and the people ſung lies to God in ſinging <hi>Davids</hi> conditions, which they could not witneſſe, nor his Spirit: the Judge an<g ref="char:EOLhyphen"/>ſwered, hath not Pſalmes been ſung in the Churches of <hi>England</hi> continually? <hi>Thomas Hutton</hi> ſaid, none ought to ſing further than they can witneſſe his condition: And they asked him, how he could prove Prieſt <hi>Shaw</hi> a drun<g ref="char:EOLhyphen"/>kard: <hi>Thomas Hutton</hi> anſwered, he was drunk in ſin, in covetouſneſſe and pride, taking Tithe of thoſe that have their children goe a begging; ſo the Iudge ſaid, we muſt goe on according to Law.</p>
+               <p>
+                  <hi>Thomas Curram</hi> was called to anſwer to the bill of In<g ref="char:EOLhyphen"/>ditement laid againſt him by <hi>Thomas Shaw;</hi> the Iudge ask<g ref="char:EOLhyphen"/>ed Prieſt <hi>Shaw</hi> what witneſſes he had? the Prieſt ſaid, none but himſelf and <hi>James Chambers,</hi> who ſaid he could not remember what <hi>Thomas Curram</hi> ſaid, and yet after<g ref="char:EOLhyphen"/>wards he was called again, and ſwore, that <hi>Thomas Cur<g ref="char:EOLhyphen"/>ram</hi> ſaid, come down thou lyar: The Iudge asked <hi>Tho<g ref="char:EOLhyphen"/>mas Curram</hi> what he ſaid to it? <hi>Thomas</hi> anſwered, he ſpoke no ſuch words: the Iudge ſaid, was you not there? <hi>Tho. Curram</hi> ſaid, I was there: the Iudge asked him what
+<pb n="10" facs="tcp:118697:7"/>
+he did ſay? <hi>Thomas</hi> anſwered and ſaid, he was a blind guide; the Preiſt ſaid, <hi>Thomas,</hi> wherein am I a blind guide? <hi>Thomas</hi> anſwered, God is to be worſhipped in ſpirit and in truth, but all thy preaching and praying, and ſinging is in formes.</p>
+            </div>
+            <div type="part">
+               <head>At the laſt Aſſizes holden at <hi>Apulby Auguſt</hi> the tenth. I <hi>Henry Howſman</hi> was to appear about two fellowes there.</head>
+               <p>CAll <hi>Henry Howſman,</hi> ſaith the Clark, <hi>Henry Howſman</hi> of <hi>Lupton</hi> come near, ſo I coming nearer, the Offi<g ref="char:EOLhyphen"/>cers cryed, put of thy hat, but I not regarding much, one took it off, and gave it me again; ſo going into the nearer room before the bench, I put it on again, which cauſed many to cry out, put it off, and the Iudge began to be angry with me, and ſome of them ſtruck it off: and the Iudge ſaid, he would teach me what I did in that place; I ſaid, I was in the preſence of God every day about my labours as well as then, and my conſcience told me, that I did work and had my hat on before the Lord; well, ſaith the Iudge, I know that, and that I am no bet<g ref="char:EOLhyphen"/>ter than thou, neither think better of my ſelf, but I muſt teach thee to give honour here, hold him the book, ſaid they, lay on your hand and be ſworn, ſaith the Iudge, con<g ref="char:EOLhyphen"/>cerning theſe two men: I am ſworn to ſpeak the truth al<g ref="char:EOLhyphen"/>wayes and now alſo, and that book ſaith, <hi>ſwear not all:</hi> well, ſaith the Iudge, that is in your Communications, but when you are before Authority you muſt ſwear the truth to end controverſie: I ſaid, I did witneſſe the life in mea<g ref="char:EOLhyphen"/>ſure that gave forth that book, which would witneſſe a<g ref="char:EOLhyphen"/>gainſt me afterwards if I did not ſpeak the truth, as the Scripture ſaith, <hi>I will be a ſwift witneſſe againſt the falſe ſwearer and the falſe accuſer:</hi> ſaith the Iudge, <hi>Fox</hi> tells you ſo, he hath learned you that doctrine; and I ſtood quiet and ſilent: come, ſaith the Iude, lay on your hand, and others cryed the ſame thing, elſe the Iury cannot believe you; I ſaid, I could not help it if they were unbelievers:
+<pb n="11" facs="tcp:118697:7"/>
+the Iudge ſaid, well friend, if you will not you will forfit your Q<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u niſants, for you are tyed to proſecute the Law a<g ref="char:EOLhyphen"/>gainſt theſe men, I ſaid I was, &amp; as I heard done ſo I ſhould doe then, I was willing to hold up my hand as a ſign, which I hope is not contrary to the Law: well ſaid he, you had beſt take heed, for there are many falſe <hi>Foxes;</hi> but I was ſilent; and he ſaid moreover, that he would lay a fine up<g ref="char:EOLhyphen"/>on my head for not proſecuting.</p>
+               <p>Chriſt Ieſus ſaith, ſwear not at all, who ſpoke with au<g ref="char:EOLhyphen"/>thority, and thou, who art a Iudge, ſaith, when one is be<g ref="char:EOLhyphen"/>fore authority he muſt ſwear the truth, and here thy autho<g ref="char:EOLhyphen"/>rity is contrary to Chriſts, and who is in the truth is in the doctrine of Chriſt, who ſaith, ſwear not at all, and he that ſweares is out of the truth, for Chriſt Ieſus is the truth, the way and the life, and he ſaith, ſwear not at all, and thou ſaith, this is but in their Communications, and yet in this thy Communication thou would have him to ſwear, and all who are out of the truth acts thus in confuſi<g ref="char:EOLhyphen"/>on.</p>
+               <p>
+                  <hi>Thomas Ralingſon</hi> being moved to goe to <hi>Lancaſter,</hi> and walking in the ſtreets, he that was the Sheriffs Trum<g ref="char:EOLhyphen"/>peter that ſounded before the Iudge, fell upon the ſaid <hi>Thomas Ralingſon,</hi> that had been ſpeaking to a Prieſt, and threw him down, and ſtruck him rudely, wickedly and de<g ref="char:EOLhyphen"/>ſperately, and afterward run after him, and got a ſtick and ſtruck him before many people, and abuſed him that did not give him any word: And another day he met the ſaid <hi>Thomas Ralingſon,</hi> and ſtruck him, and abuſed him, and drew bloud on him.</p>
+               <p>Now you that be Rulers, Iudge and Sheriffe, who hath no more rule over your own men, but bring ſuch peace-breakers and ſtrikers in the high-way, without any moleſtation, here all may ſee, you that ſuffer ſuch things, how you ſtrengthen the hands of evill doers, of ſtrikers and bloud-ſhedders againſt the innocent, and you ſuffer this to goe unpuniſhed: ſay you, they ſhould keep peace,
+<pb n="12" facs="tcp:118697:8"/>
+and you keep a man to break peace, and the ſaid Trumpe<g ref="char:EOLhyphen"/>ter went up to the Goale, and threw a ſtone into the Goale among ſome priſoners, which have lain in a year becauſe they could not pay the Prieſt Tythes, and he broke there<g ref="char:EOLhyphen"/>with the face of <hi>Richard Mire,</hi> one of the priſoners, and made him bleed ſore, ſhedding much of his bloud, and of <hi>Thomas Raling ſons</hi> before, this was the Sheriffs Trumpeter, that ſounded before the Iudge, who after that went up in<g ref="char:EOLhyphen"/>to the priſon among the priſoners, and beat <hi>Richard Asburner</hi> in the priſon, and then opened a Coffer which was in the Goale, where the priſoners had things, and took out of it many bookes and packs, and carried them away.</p>
+               <p>The word of the Lord to thee <hi>Nudigate,</hi> who goes by the name of a Judge, and ſhould take upon thee the ſeat of Iuſtice, and in the execution of thy place thou goes about to accuſe the juſt, and to flander the innocent, and to ſpeak evill of things thou knoweſt not, and goes about to ſtrengthen the hands of the wicked againſt the people of God, and ſuffered them to be beat, and abuſed, and perſecuted by thoſe that was under thy own authority. and that thou ſaw with thy own eyes, but for which know aſſuredly, that the juſt and righteous God will be avenged of all ſuch unrighteous ones as thou, before him who is the righteous God of heaven and earth ſhalt thou, and all ſuch as thou, be arraigned to give an account for the thing done in the body, for all thy actions is upon record before the Lord God of heaven and earth, that thou haſt done and ſuffered to be done to the ſervants of the moſt high God, and the Iudgements of God thou ſhalt not eſcape: Thou that ſhould be a Miniſter of the Law, and a Miniſter of Iuſtice and equity over the people, but in thy place thou haſt miniſtred untruths, ſcandals and re<g ref="char:EOLhyphen"/>proaches and falſe accuſations upon the innocent, and hath blaſphemed the Name of God in ſaying, that the light leads into ſin: And whereas Chriſt Ieſus ſaith, <hi>I am
+<pb n="13" facs="tcp:118697:8"/>
+the light of the world, and doth enlighten every one that comes into the world;</hi> And this light every particular hath a mea<g ref="char:EOLhyphen"/>ſure of, which, thou ſaith, leads into ſin, and this is the condemnation of the world, the light, and ſuch as thou loves darkneſſe rather than light, becauſe thy deeds are evill, the light is thy condemnation; and thou that ſaith, the light leads into ſin, hath made it manifeſt, that thou art not a child of light, but a child of darkneſſe, for God is light, and in him is no darkneſſe at all; and in thy dark naturall mind, which knowes not the things of God, which art in the envy and ſtrife, which is out of the light, which is with the light to be condemned; in this mind thou ut<g ref="char:EOLhyphen"/>ters forth ſcandals and reproaches upon the children of the light, which live in the light, and walk in the light, which thou knowes nothing of, but art an enemy too, but to the light in thy conſcience I ſpeak, which ſhines in darkneſſe, and darkneſſe comprehends it not, which light, if thou hearken to it which checks thee, it will let thee ſee that thou ought not to lie, nor to ſtander, nor to blaſ<g ref="char:EOLhyphen"/>pheme the Name of God, nor to ſpeak evill of things thou knowes not; and if thou would hearken to it, it would lead thee to Iuſtice, Equity and Righteouſneſſe, for the light of God in every ones conſcience is juſt and righteous, and leads to Iuſtice, and Equity, and out of ſin, and if thou would hearken to it, it would let thee ſee thy groſſe darkneſſe and blaſphemy, that thou ſhould ſay, that leads into ſin, which is pure and cannot ſin, the light which is and ever was the Saints Teacher, and it ſhall be thine eternal condemnation, for all thy hard ſpeeches that ever thou haſt ſpoken; Oh be aſhamed and tremble be<g ref="char:EOLhyphen"/>fore the Lord God, that thou ſhould utter forth ſuch un<g ref="char:EOLhyphen"/>truths, and make thy folly ſo manifeſt in a place where thou ought to doe juſtice.</p>
+               <p>And a Warning to thee, and all that ever takes upon them that place, to beware of ſpeaking evil of things you know not, you may read your portion in <hi>Jude;</hi> and the
+<pb n="14" facs="tcp:118697:9"/>
+children of the light, who walk and dwell in the light, and bring their deeds to the light, that they may be proved and tried, them you cannot touch, and the ſcandals laid upon them by the children of darkneſſe, are by the chil<g ref="char:EOLhyphen"/>dren of light made manifeſt, and ſet in their own places where they ought to be, and herein is the truth cleared, and falſe accuſers of truth are made manifeſt; and the light, which thou ſaith leads into ſin, ſhall ſtand, and make manifeſt all works of iniquity, and by it thou art eternally condemned.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
